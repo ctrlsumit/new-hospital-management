@@ -20,7 +20,7 @@
     "express-fileupload": "^1.4.3",
     "express-session": "^1.18.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.4.5",
+    "mongoose": "^8.2.1",
     "validator": "^13.11.0"
   },
   "devDependencies": {
